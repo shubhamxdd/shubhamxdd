@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Nextracker](https://github.com/shubhamxdd/nextracker)<br>🌱 I’m currently learning NextJS
+🔭 I’m currently working on Nothing<br>🌱 I’m currently learning NextJS
 
 
 ## 🌐 Socials:
