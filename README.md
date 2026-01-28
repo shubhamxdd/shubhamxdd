@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nothing<br>🌱 I’m currently learning NextJS
+🔭 I’m currently working on n8n workflows<br>🌱 I’m currently learning Machine Learning
 
 
 ## 🌐 Socials:
